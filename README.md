@@ -1,11 +1,15 @@
 # Neon Coast Cover Studio
 
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/1372755394-ai/gta6-cover-art-01/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/1372755394-ai/gta6-cover-art-01/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+
 Turn your photos into GTA-style poster art — the multi-panel cover look with bold
 caption lettering and a Vice City neon-sunset grade — exported as PNGs to share.
 Runs entirely offline in a desktop browser: your photos never leave your machine,
 there is no upload, no account and no watermark.
 
-Built for the make.fun competition **gta6-cover-art-01**.
+Built for the [make.fun](https://make.fun/bounty/gta6-cover-art-01) competition **gta6-cover-art-01**.
 Referral code: **qajetvf4**
 
 ## What it does
