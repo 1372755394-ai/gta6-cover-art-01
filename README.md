@@ -55,6 +55,14 @@ and open `app/index.html`. It works with no network connection.
 4. Type your title and subtitle, pick a title style.
 5. **Export all 4 sizes** — four PNGs download at once.
 
+## Keyboard shortcuts
+
+- **Ctrl+Z** (Cmd+Z on macOS) — undo
+- **Ctrl+Shift+Z** (Cmd+Shift+Z on macOS) — redo
+
+Undo and redo also work from the ↩ / ↪ buttons in the toolbar, and undo goes
+back up to 60 steps.
+
 ## Files
 
 - `main.ts` — the entry program (Node 22, stdlib only): copies `app/` and
